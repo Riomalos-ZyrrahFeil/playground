@@ -1,4 +1,4 @@
 will it show in commit when feat -> dev?
 y/n
 = yes it shows in the develop branch commit history but not in main commit 
-history because its not pushed in main... common sence nasan na.
+history because its not pushed in main...
